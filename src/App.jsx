@@ -6,7 +6,7 @@ function App() {
     <div className="flex flex-col min-h-screen">
       <header className="bg-teal-700 p-4">
         <nav className="container mx-auto">
-          <h1 className="text-white">Travel Planner</h1>
+          <h1 className="text-white">Travel Agent</h1>
         </nav>
       </header>
 
@@ -16,7 +16,7 @@ function App() {
 
       <footer className="bg-teal-700 p-4">
         <div className="container mx-auto">
-          <p className="text-white text-center">&copy; 2023 Travel Planner</p>
+          <p className="text-white text-center">&copy; 2023 Travel Agent</p>
         </div>
       </footer>
     </div>

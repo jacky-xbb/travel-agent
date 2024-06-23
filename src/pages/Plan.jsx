@@ -45,7 +45,7 @@ function Plan() {
 
   return (
     <div className="flex flex-col items-center py-8 mx-auto max-w-md">
-      <h1 className="mb-4 text-2xl font-bold text-center">Travel Planner</h1>
+      <h1 className="mb-4 text-2xl font-bold text-center">Travel Agent</h1>
       <form className="w-full" onSubmit={handleSubmit} noValidate>
         <TravellerCounter count={travelers} setCount={setTravelers} /> {/* Pass state and setter */}
         <div className="mb-4">
