@@ -2,6 +2,8 @@
 
 The travel agent application built with Vite, React, and TailwindCSS. It allows users to plan trips by entering details such as departure city, destination city, travel dates, budget, and number of travelers. It fetches weather, flight, and hotel information using the OpenAI API and OpenWeatherMap API.
 
+![Dashboard](https://raw.githubusercontent.com/jacky-xbb/pics/main/uPic/H408wT.png)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
